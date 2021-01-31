@@ -1,3 +1,3 @@
 # CV
 **Name and Surname**
-Phone number
+Phone number.
